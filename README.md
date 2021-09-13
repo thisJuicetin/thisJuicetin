@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JTMabutas17
+- 👀 I’m interested in Software Development!
+- 🌱 I’m currently learning Full-Stack App Development.
+- 📫 Contact me at thisjuicetin@gmail.com
