@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JTMabutas17
+- 👋 Hi, I’m @thisJuicetin
 - 👀 I’m interested in Software Development!
 - 🌱 I’m currently a back-end developer at Workday.
 - 📫 Contact me at mabutas.justin@gmail.com
